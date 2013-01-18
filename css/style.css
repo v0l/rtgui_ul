@@ -1,0 +1,19 @@
+body {font-family: century gothic, sans-serif; color: #333; font-size:11px; background-color:#fff; padding:0;margin:0;}
+a { text-decoration:none; color:#17399C; }
+a:hover { text-decoration:underline;}
+#page {	margin-left: auto;	margin-right: auto;	width:1024px;}
+#header { float:top; min-height: 90px; padding:10px;margin:0;position:fixed; width:1004px; background-color:#fff; border-left:1px solid #AAA;border-bottom:1px solid #AAA;border-right:1px solid #AAA;border-bottom-right-radius:3px;border-bottom-left-radius:3px;box-shadow: 0 0 10px 1px #ccc;}
+.right{	float:right; text-align: right;}
+.left{	float:left; text-align: left; clear: left;}
+.torrents { width:1024px; padding-top:120px;}
+.torrents td{ }
+.green_logo { color: #7Ea610; }
+.blue_logo { color: #4093E6; }
+.border_bottom { border-bottom: 1px solid #DDD; }
+.red { background-color: #FF1919;  margin-top: 15px;}
+.blue { background-color: #4093E6; margin-top: 15px;}
+.green { background-color: #66FF66; margin-top: 15px;}
+#login{	margin-left: auto;margin-right:auto;margin-top:200px;text-align:center;width:300px;	border: 1px solid #111;border-radius: 5px;box-shadow: 0 0 10px 1px #888;background:#FFF; }
+.big_button{ font-weight:bold; padding: 8px; border-radius: 3px; border: 1px solid #ccc; background-color: #A3FFA3; margin-left: 20px;} 
+.med_button{ font-weight:bold; padding: 5px; border-radius: 3px; border: 1px solid #ccc; background-color: #A3FFA3; margin-left: 10px;}  
+#footer { padding-bottom:20px;padding-top:20px;margin-top:40px; border-left:1px solid #AAA;border-top:1px solid #AAA;border-right:1px solid #AAA;border-top-right-radius:3px;border-top-left-radius:3px;box-shadow: 0 0 10px 1px #ccc;}
